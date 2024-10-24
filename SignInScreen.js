@@ -19,7 +19,7 @@ const SignInScreen = () => {
         //console.warn("Login");
         navigation.navigate('Home')
     };
-
+// comment
     const onHaveanaccountPressed = () => {
         //console.warn("Create new account");
         navigation.navigate('Login')
